@@ -1,7 +1,6 @@
 package de.hfu;
 
 import static org.junit.Assert.*;
-
 import org.junit.Test;
 
 public class UtilTest {
